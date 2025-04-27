@@ -1,0 +1,19 @@
+# Overview
+
+This project is a simple "Hello, World!" program, serving as an introductory exercise in my sprint project learning experience. The program outputs a greeting message to the console, demonstrating successful setup of the environment and familiarity with basic syntax.
+
+My purpose for creating this software is to practice the basic processes of writing, documenting, and submitting a functional program, all .while following professional conventions. It establishes the foundational workflow for larger and more complex projects in the future.
+
+Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.
+
+[Software Sprint Initial Setup](https://youtu.be/kaVbpzE6GaE)
+
+# Development Environment
+
+I used Visual Studio Code as my text editor to write and test code. Git and Github were used for version control and project organization.
+
+I used Python 3.11.9 for this project.
+
+# Useful Websites
+* [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+* [Python Basics](https://www.pythoncheatsheet.org/cheatsheet/basics)
